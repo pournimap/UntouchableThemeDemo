@@ -1,0 +1,5 @@
+#include "Header.h"
+
+IDBITMAP_WOOD BITMAP "resources/wood.bmp"
+IDBITMAP_WHITE BITMAP "resources/white.bmp"
+THEMESONG WAVE "resources/Untouchables.wav"
